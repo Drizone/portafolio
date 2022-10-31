@@ -1,0 +1,9 @@
+.about__title{
+    font-size: 2rem;
+}
+
+.about__paragraph{
+    font-size: 1.25rem;
+    text-align: justify;
+    padding: 0 30rem 0 30rem;
+}

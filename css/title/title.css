@@ -1,0 +1,24 @@
+.title__profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+.title__network{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    padding-right: 2rem;
+}
+
+.title__network__item__img{
+    height: 60px;
+    width: 60px;
+    padding-right: 2rem;
+}
+
+.title__network__item:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+

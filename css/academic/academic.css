@@ -1,0 +1,21 @@
+.academic__title{
+    font-size: 2rem;
+}
+
+.academic__courses{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 250px;
+    padding: 0 30rem 0 30rem;
+}
+
+.academic__courses__list{
+    font-size: 1.25rem;
+}
+
+.academic__courses__item__img {
+    border-radius: 5px;
+}
+
+

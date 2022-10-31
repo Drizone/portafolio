@@ -1,0 +1,49 @@
+.experience{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.experience__section__title{
+    font-size: 2rem;
+}
+
+.experience__box {
+    height: 50rem;
+    padding-top: 2rem;
+    width: 55rem;
+
+}
+
+.experience__img{
+    height: 55%;
+    width: 78%;
+    border-radius: 10px;
+}
+
+.experiencia__botao--repo{
+    background-color: rgb(5, 175, 5);
+    height: 3rem;
+    width: 6.5rem;
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+.experiencia__botao--repo:hover{
+    background-color: rgb(6, 209, 6);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.experience__botao--demo{
+    background-color: rgb(5, 175, 5); 
+    height: 3rem;
+    width: 6.5rem;
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+.experience__botao--demo:hover{
+    background-color: rgb(6, 209, 6);
+    font-size: 1rem;
+    font-weight: bold;
+}

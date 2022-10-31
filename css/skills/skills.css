@@ -1,0 +1,18 @@
+.skills__title{
+    font-size: 2rem;
+}
+
+.skills__line{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.skills__box{
+    padding-left: 3rem;
+}
+
+.skills__img{
+    height: 100px;
+    width: 100px;
+}
